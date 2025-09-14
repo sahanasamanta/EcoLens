@@ -1,5 +1,5 @@
-flask
-flask-cors
+streamlit
+streamlit_folium
 ultralytics>=8.0.0
 opencv-python
 numpy
